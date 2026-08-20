@@ -69,11 +69,11 @@
     <td width="50%" valign="top">
       <h3 align="center">🌐 Interactive Portfolio</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js" height="30" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" height="30" />
       </p>
       <p>Website portofolio personal interaktif untuk memamerkan proyek, skill set, dan perjalanan rekayasa perangkat lunak.</p>
       <p align="center">
-        <a href="https://tole2404.github.io/portofolio.github.io/"><b>👉 Live Demo</b></a>
+        <a href="https://portfolio-tunggul.vercel.app/" target="_blank"><b>👉 Live Demo</b></a>
       </p>
     </td>
   </tr>
@@ -122,8 +122,8 @@
 ### 📡 Transmission Channels
 
 <p align="center">
-  <a href="https://tole2404.github.io/portofolio.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO_SITE-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black&color=030712&labelColor=00F0FF" alt="Portfolio" />
+  <a href="https://portfolio-tunggul.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO_SITE-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&color=030712&labelColor=00F0FF" alt="Portfolio" />
   </a>
   <a href="mailto:tunggulbayu@example.com">
     <img src="https://img.shields.io/badge/ENCRYPTED_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=030712&labelColor=EA4335" alt="Email" />
