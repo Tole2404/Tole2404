@@ -7,12 +7,12 @@
 
 <!-- ================= 2. TYPING SUBTITLE & BADGES ================= -->
 <a href="https://github.com/Tole2404">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Full-Stack+%26+Enterprise+Software+Architect;Golang+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;Crafting+Multi-Module+Enterprise+ERP+Systems;IoT+%26+Microcontroller+Firmware+Engineering;Clean+Architecture+%26+Scalable+Cloud+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Full-Stack+%26+Software+Developer;PHP+%E2%80%A2+Laravel+%E2%80%A2+CodeIgniter+%E2%80%A2+MySQL;Golang+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;Crafting+Modern+Web+Applications+%26+ERP+Systems;Clean+Architecture+%26+Scalable+RESTful+APIs" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tole2404&label=SYSTEM_ACCESS_COUNT&color=00f0ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_FOR_HIRE-00f0ff?style=for-the-badge&logoColor=000&color=00F0FF&labelColor=0d1117" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Tole2404&label=PROFILE_VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-00f0ff?style=for-the-badge&color=00F0FF&labelColor=0d1117" alt="Status" />
   <img src="https://img.shields.io/badge/REGION-INDONESIA_🇮🇩-6C63FF?style=for-the-badge&color=7000FF&labelColor=0d1117" alt="Location" />
 </p>
 
@@ -39,19 +39,19 @@
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nextjs,ts,go,postgres,tailwind,docker" height="30" />
       </p>
-      <p>Platform <b>Enterprise Resource Planning (ERP)</b> skala enterprise dengan Clean Architecture di backend Go &amp; frontend Next.js 15. Dilengkapi Auth RBAC, Manajemen Finansial, HR, Inventory, dan Audit Log real-time.</p>
+      <p>Platform <b>Enterprise Resource Planning (ERP)</b> dengan Clean Architecture di backend Go &amp; frontend Next.js 15. Dilengkapi Auth RBAC, Manajemen Finansial, HR, Inventory, dan Audit Log real-time.</p>
       <p align="center">
         <a href="https://github.com/Tole2404/enterprise"><b>👉 View Repository</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🐔 Smart Kandang Ayam (IoT)</h3>
+      <h3 align="center">💼 Aplikasi Penjualan Web</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,c,arduino" height="30" />
+        <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js" height="30" />
       </p>
-      <p>Sistem otomasi kandang pintar berbasis IoT dengan kontrol suhu real-time, monitoring sensorik, dan aktuasi otomatis untuk efisiensi peternakan modern.</p>
+      <p>Sistem informasi penjualan dan point of sales berbasis web dengan manajemen produk, transaksi real-time, pencatatan kasir, dan laporan penjualan otomatis.</p>
       <p align="center">
-        <a href="https://github.com/Tole2404/Smart-kandang-ayam"><b>👉 View Repository</b></a>
+        <a href="https://github.com/Tole2404/Aplikasi-Penjualan-berbasis-Web"><b>👉 View Repository</b></a>
       </p>
     </td>
   </tr>
@@ -86,12 +86,12 @@
 
 <div align="center">
 
-| Domain | Weaponry &amp; Frameworks |
+| Domain | Technologies &amp; Frameworks |
 | :--- | :--- |
-| **Frontend Engineering** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" /> |
-| **Backend &amp; Core** | <img src="https://skillicons.dev/icons?i=go,nodejs,java,php,express" /> |
-| **Databases &amp; Cache** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase" /> |
-| **Embedded Systems / IoT** | <img src="https://skillicons.dev/icons?i=cpp,c,arduino" /> |
+| **PHP Ecosystem** | <img src="https://skillicons.dev/icons?i=php,laravel,mysql,bootstrap" /> |
+| **Full-Stack &amp; Modern Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" /> |
+| **Backend &amp; Languages** | <img src="https://skillicons.dev/icons?i=go,nodejs,java,express" /> |
+| **Databases &amp; Cache** | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,supabase" /> |
 | **DevOps &amp; Engineering Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma" /> |
 
 </div>
