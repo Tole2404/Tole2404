@@ -73,48 +73,40 @@
 
     <!-- Bio / Role Subtitle -->
     <text x="0" y="60" fill="#94a3b8" font-size="13.5" font-weight="500" class="font-sans">
-      Full-Stack &amp; Enterprise Architect  |  Founder of Enterprise ERP  |  IoT &amp; Systems Engineer
+      Full-Stack &amp; Software Developer  |  PHP (Laravel/CI), Go, TypeScript &amp; Next.js
     </text>
 
-    <!-- Interactive Pill Badges -->
+    <!-- Pill Badges -->
     <g transform="translate(0, 80)">
-      <!-- Badge 1: Golang -->
       <rect x="0" y="0" width="85" height="26" rx="13" fill="#00f0ff" fill-opacity="0.12" stroke="#00f0ff" stroke-width="1"/>
-      <text x="42.5" y="17" text-anchor="middle" fill="#00f0ff" font-size="11.5" font-weight="700" class="font-mono">Go (Golang)</text>
+      <text x="42.5" y="17" text-anchor="middle" fill="#00f0ff" font-size="11" font-weight="700" class="font-mono">Go (Golang)</text>
 
-      <!-- Badge 2: Next.js -->
-      <rect x="95" y="0" width="85" height="26" rx="13" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-width="1"/>
-      <text x="137.5" y="17" text-anchor="middle" fill="#ffffff" font-size="11.5" font-weight="700" class="font-mono">Next.js 15</text>
+      <rect x="92" y="0" width="82" height="26" rx="13" fill="#ffffff" fill-opacity="0.1" stroke="#ffffff" stroke-width="1"/>
+      <text x="133" y="17" text-anchor="middle" fill="#ffffff" font-size="11" font-weight="700" class="font-mono">Next.js 15</text>
 
-      <!-- Badge 3: TypeScript -->
-      <rect x="190" y="0" width="105" height="26" rx="13" fill="#3178c6" fill-opacity="0.2" stroke="#3178c6" stroke-width="1"/>
-      <text x="242.5" y="17" text-anchor="middle" fill="#60a5fa" font-size="11.5" font-weight="700" class="font-mono">TypeScript</text>
+      <rect x="181" y="0" width="95" height="26" rx="13" fill="#3178c6" fill-opacity="0.2" stroke="#3178c6" stroke-width="1"/>
+      <text x="228.5" y="17" text-anchor="middle" fill="#60a5fa" font-size="11" font-weight="700" class="font-mono">TypeScript</text>
 
-      <!-- Badge 4: PostgreSQL -->
-      <rect x="305" y="0" width="100" height="26" rx="13" fill="#336791" fill-opacity="0.2" stroke="#336791" stroke-width="1"/>
-      <text x="355" y="17" text-anchor="middle" fill="#38bdf8" font-size="11.5" font-weight="700" class="font-mono">PostgreSQL</text>
+      <rect x="283" y="0" width="130" height="26" rx="13" fill="#ff2d20" fill-opacity="0.15" stroke="#ff2d20" stroke-width="1"/>
+      <text x="348" y="17" text-anchor="middle" fill="#f87171" font-size="11" font-weight="700" class="font-mono">Laravel / CI</text>
 
-      <!-- Badge 5: C++ & IoT -->
-      <rect x="415" y="0" width="90" height="26" rx="13" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1"/>
-      <text x="460" y="17" text-anchor="middle" fill="#34d399" font-size="11.5" font-weight="700" class="font-mono">C++ / IoT</text>
+      <rect x="420" y="0" width="95" height="26" rx="13" fill="#38bdf8" fill-opacity="0.15" stroke="#38bdf8" stroke-width="1"/>
+      <text x="467.5" y="17" text-anchor="middle" fill="#38bdf8" font-size="11" font-weight="700" class="font-mono">PostgreSQL</text>
     </g>
   </g>
 
-  <!-- Right Side Live Telemetry Stats Box -->
-  <g transform="translate(730, 36)">
-    <rect x="0" y="0" width="120" height="128" rx="10" fill="#040d1a" stroke="#00f0ff" stroke-width="1" stroke-opacity="0.4"/>
-    <text x="60" y="24" text-anchor="middle" fill="#94a3b8" font-size="10.5" font-weight="700" class="font-mono" letter-spacing="1">
-      EXPERTISE
+  <!-- Right Side Minimal Status -->
+  <g transform="translate(730, 48)">
+    <rect x="0" y="0" width="120" height="104" rx="10" fill="#040d1a" stroke="#00f0ff" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="60" y="24" text-anchor="middle" fill="#94a3b8" font-size="10.5" font-weight="600" class="font-mono" letter-spacing="1">
+      MODE
     </text>
-    <text x="60" y="58" text-anchor="middle" fill="#00f0ff" font-size="28" font-weight="900" class="font-mono">
-      PRO
+    <text x="60" y="52" text-anchor="middle" fill="#10b981" font-size="14" font-weight="700" class="font-mono">
+      ● ACTIVE
     </text>
-    <line x1="15" y1="72" x2="105" y2="72" stroke="#00f0ff" stroke-width="0.5" stroke-opacity="0.3"/>
-    <text x="60" y="92" text-anchor="middle" fill="#10b981" font-size="10.5" font-weight="700" class="font-mono">
-      ENTERPRISE
-    </text>
-    <text x="60" y="110" text-anchor="middle" fill="#a855f7" font-size="9.5" font-weight="600" class="font-mono">
-      SCALE-READY
+    <line x1="15" y1="64" x2="105" y2="64" stroke="#00f0ff" stroke-width="0.5" stroke-opacity="0.2"/>
+    <text x="60" y="84" text-anchor="middle" fill="#94a3b8" font-size="9.5" font-weight="500" class="font-mono">
+      BUILD &amp; LEARN
     </text>
   </g>
 </svg>
